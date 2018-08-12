@@ -60,11 +60,9 @@ classifier.fit_generator(
 
 
 
-
-
-classifier.save('cdi.h5')
+classifier.save('classifiermodel.h5')
 classifierfile= classifier.to_json()
-jsonfile= open('model.json','w')
+jsonfile= open('classifierweigths.json','w')
 jsonfile.write(classifier.to_json())
 classifier.save_weights('cw.h5')
 

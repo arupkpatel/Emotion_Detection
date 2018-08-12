@@ -1,5 +1,5 @@
 from keras.models import load_model
-classifier = load_model('cdi.h5')
+classifier = load_model('classifiermodel.h5')
 
 import numpy as np
 from keras.preprocessing import image
