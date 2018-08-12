@@ -14,3 +14,6 @@ We have successfully got the desired output when tested on a number of faces inc
 
 Note: This project is done by team 'Exzodia' of SRM Institute of Science and Technology, Vadaplanai. This team was formed by me
 and 2 of my friends Visha Bharthy and Abhishek Nath.
+
+# Result:
+![Output 1](https://github.com/arupkpatel/Emotion_Detection/blob/master/op1.JPG) ![Output 1](https://github.com/arupkpatel/Emotion_Detection/blob/master/op2.JPG)
