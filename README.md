@@ -11,3 +11,6 @@ For preprocessing part, we have collect around 4000 images of happy and sad pers
 them to grayscale.
 
 We have successfully got the desired output when tested on a number of faces including 2 of our classmates with an accuracy of 95 percent.
+
+Note: This project is done by team 'Exzodia' of SRM Institute of Science and Technology, Vadaplanai. This team was formed by me
+and 2 of my friends Visha Bharthy and Abhishek Nath.
